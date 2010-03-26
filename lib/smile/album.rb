@@ -406,7 +406,7 @@ class Smile::Album < Smile::Base
     nil
   end
   
-  def category
-    ['category']
-  end
+#  def category
+#    ['category']
+#  end
 end
